@@ -1,0 +1,141 @@
+.images {
+    height: 750px;
+    width: 100%;
+    margin-bottom: 0px;
+    background-image: url("images/pic.jpg");
+    opacity: 0.5;
+    background-size: cover;
+    background-position: none;
+}
+
+.image {
+    position: absolute;
+    z-index: 0;
+    top: 0px;
+    left: 0px;
+    height: 650px;
+    width: 100%;
+    margin-bottom: 0px;
+    background-image: url("images/background\ about.jpg");
+    opacity: 0.4;
+    background-size: cover;
+    background-position: none;
+}
+
+.title {
+   padding: 0px;
+   position: absolute;
+   bottom: 200px;
+   right: 150px;
+   font-size: 40px;
+   font-family: 'Pacifico', cursive;
+   color:white;
+} 
+
+h1 {
+color: navy;
+padding: 100px;
+position: absolute;
+bottom: 600px;
+left: 80px;
+font-size: 60px;
+font-family: 'Galada', cursive;
+font-weight: bold;
+}
+
+.subtitle {
+color: rgb(158, 158, 245);
+padding: 0px;
+position: absolute;
+bottom: 670px;
+left: 180px;
+font-size: 30px;
+font-family: 'Notable', sans-serif;
+font-weight: bold;
+}
+
+header {
+position: absolute;
+left: 25px;
+top: 60px;
+font-size: 60px;
+font-family: 'Galada', cursive;
+font-weight: bold; 
+color: navy;  
+}
+
+.img-thumbnail{
+position: absolute;
+top: 250px;
+left: 30px;
+height: 300px;
+width: 280px;
+}
+
+.myinfo{
+
+top: 50px;
+right: 150px;
+font-size: 20px;
+font-family: 'Galada', cursive;
+font-weight: bold; 
+color: navy;  
+height: 400px;
+width: 600px;
+}
+
+.form-control{
+    margin-top: 30px ;
+}
+
+h2 {
+    padding: 50px;
+    color: navy;
+    margin-top: 30px ;
+    margin-right: 50px;
+    font-size: 30px;
+    font-family: 'Notable', sans-serif;
+    font-weight: bold;
+    }
+
+.form-control{
+    margin-top: 20px ;
+    margin-left: 5px;
+    font-family: 'Notable', sans-serif;
+    font-size: 15px;
+    
+}
+
+.btn{
+    margin-top: 150px ;
+    margin-left: 50px;
+
+}
+
+#recuadro{
+    margin-top: 40px ;
+    margin-left: 180px;
+
+}
+
+.relative{
+    position: relative;
+}
+
+.row{
+    margin-top: 40px ;
+    margin-left: 40px;
+
+}
+
+p{
+    padding: 50px;
+    position: absolute;
+    top: 5px ;
+    left: 300px;
+}
+
+h3{
+    font-size: 20px;
+    font-family: 'Shadows Into Light', cursive;
+}
